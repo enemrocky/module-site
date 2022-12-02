@@ -108,6 +108,7 @@ h4 {
   font-weight: 600;
 }
 
+
 .link.faq__link {
   text-decoration: underline;
   text-underline-offset: 0.4rem;
@@ -390,6 +391,7 @@ h4 {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
+  margin-bottom: 5rem;
 }
 
 .showcase__image {
